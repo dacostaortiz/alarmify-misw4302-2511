@@ -1,16 +1,16 @@
-package com.misw43022025.alarmify.ui.dashboard;
+package com.misw43022025.alarmify.ui.configs;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class DashboardViewModel extends ViewModel {
+public class ConfigsViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public DashboardViewModel() {
+    public ConfigsViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("This is configs fragment");
     }
 
     public LiveData<String> getText() {

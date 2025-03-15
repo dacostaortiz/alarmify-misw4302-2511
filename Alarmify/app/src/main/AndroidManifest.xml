@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Alarmify"
         tools:targetApi="31">
+
+        <activity android:name=".MainActivity" />
+
         <activity
             android:name=".LoginActivity"
             android:exported="true"

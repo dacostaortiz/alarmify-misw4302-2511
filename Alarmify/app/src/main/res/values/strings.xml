@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Alarmify</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_alarms">Alarmas</string>
+    <string name="title_configs">Configuraciones</string>
+    <string name="title_logout">Logout</string>
     <string name="alarmifyLabel">Alarmify</string>
     <string name="emailLabel">Email</string>
     <string name="emailField">Email</string>
