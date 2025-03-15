@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alarmify</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="alarmifyLabel">Alarmify</string>
+    <string name="emailLabel">Email</string>
+    <string name="emailField">Email</string>
+    <string name="passLabel">Contraseña</string>
+    <string name="passField">Contraseña</string>
+    <string name="restorepassBtn">¿Olvidaste tu contraseña?</string>
+    <string name="ingresarBtn">Ingresar</string>
+    <string name="googleBtn">Ingresar con Google</string>
+    <string name="oLabel">o</string>
+    <string name="registration">Registrarse</string>
+</resources>

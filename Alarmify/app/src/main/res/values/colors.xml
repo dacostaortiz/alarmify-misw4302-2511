@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calmBlue1">#FF90D5FF</color>
+    <color name="calmBlue2">#FF57B9FF</color>
+    <color name="calmBlue3">#FF77B1D4</color>
+    <color name="calmBlue4">#FF517891</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
